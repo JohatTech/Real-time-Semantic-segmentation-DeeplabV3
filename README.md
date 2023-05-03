@@ -24,7 +24,7 @@ The next library I used was OpenCV To handle computer vision task like the follo
 
 ### Functionality and results
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd7528be-9323-4638-9c22-6ec031678274/Untitled.png)
+![image](https://user-images.githubusercontent.com/86735728/235811641-97f3ee67-43f5-45c5-b977-f1e92cc999e1.png)
 
 As you can see in the image above, the application successfully segment real time data from the video camera at different scales, which is really useful for any project that require robot vision.
 
@@ -34,7 +34,7 @@ The best third-party model this type of robot vision task in low-end devices is 
 
 as you can see in the image below, we have object detection, the best part of Yolov5 is that the classes detected on the execution can be stored as a panda data frame for further analysis. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0b0efc8-ab67-4ad0-b38e-6cf573eada27/Untitled.png)
+![image](https://user-images.githubusercontent.com/86735728/235811671-e707a746-4f16-44e4-9b79-0eb591651c7f.png)
 
 ## Deployment configurations
 
